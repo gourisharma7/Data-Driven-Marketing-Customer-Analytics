@@ -1,4 +1,4 @@
-# Marketing-Analytics-Business-Performance-Optimization
+# Sentiment Analysis on Customer Feedback
 
 This project leverages SQL, Python, and Power BI to analyze customer engagement, conversion rates, and marketing effectiveness. A complete ETL pipeline was built to transform raw marketing data into actionable insights, helping businesses optimize strategies and maximize ROI.
 
