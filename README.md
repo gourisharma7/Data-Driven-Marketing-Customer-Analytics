@@ -20,17 +20,18 @@ Designed Power BI dashboards for data-driven decision-making.
 
 Key Metrics:
 
-Conversion Trends – Seasonal variations and product performance.
 
-Customer Engagement – Click-through rates, social interactions, and content impact.
+Conversion Trends – Highest in January (18.5%), driven by Ski Boots (150% conversion), and lowest in May (4.3%), indicating seasonal demand shifts.
 
-Marketing ROI – Campaign success and underperformance analysis.
+Customer Engagement – Views declined post-July, but CTR remained strong at 15.37%, showing content effectiveness despite lower audience retention.
 
-Customer Feedback – Sentiment trends, satisfaction scores, and key insights.
+Customer Feedback & Satisfaction – Average rating at 3.7 (below the 4.0 target) with 275 positive vs. 82 negative reviews, highlighting areas for improvement.
 
-Content Performance – Blog, video, and social media engagement.
+Content Performance – Blogs had peak engagement in April and July, while social media and video content underperformed, suggesting a need for interactive formats and stronger CTAs.
 
-Optimization Strategies – Data-driven improvements for better results.
+Optimization Strategies – Focused on seasonal promotions, engagement-driven content enhancements, and customer feedback improvements to boost conversions and retention.
+
+Generated actionable insights to enhance sales strategies and customer retention.
 
 
 Business Impact:
