@@ -3,7 +3,7 @@ This project leverages SQL, Python, and Power BI to analyze customer engagement,
 
 
 
-Implementation:
+##Implementation:
 
 Processed and analyzed data using SQL to uncover key trends.
 
@@ -17,7 +17,7 @@ Designed Power BI dashboards for data-driven decision-making.
 
 
 
-Key Metrics:
+##Key Metrics:
 
 
 Conversion Trends – Highest in January (18.5%), driven by Ski Boots (150% conversion), and lowest in May (4.3%), indicating seasonal demand shifts.
@@ -31,6 +31,11 @@ Content Performance – Blogs had peak engagement in April and July, while socia
 Optimization Strategies – Focused on seasonal promotions, engagement-driven content enhancements, and customer feedback improvements to boost conversions and retention.
 
 Generated actionable insights to enhance sales strategies and customer retention.
+
+
+##Goals and Actions
+
+![G A](https://github.com/user-attachments/assets/9118146a-57bd-4378-8fc2-fc34b161c5f3)
 
 
 Business Impact:
